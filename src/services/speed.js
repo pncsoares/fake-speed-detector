@@ -6,7 +6,7 @@ import {
  } from '../constants/messages.js';
 
 /**
- * 
+ * It takes a speed and verifies if the car is moving forward, if it is idle or if it is moving backwards
  * @param {*} speed 
  */
 export default function verifyIfItIsGoingForward(speed) {
