@@ -1,0 +1,29 @@
+{
+  "name": "fake-speed-detector",
+  "version": "1.0.0",
+  "description": "A speed detector...but fake 😁 Try it, i bet you'll laugh!",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pncsoares/fake-speed-detector.git"
+  },
+  "keywords": [
+    "speed",
+    "detector",
+    "fake"
+  ],
+  "author": "Pedro Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pncsoares/fake-speed-detector/issues"
+  },
+  "homepage": "https://github.com/pncsoares/fake-speed-detector#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
