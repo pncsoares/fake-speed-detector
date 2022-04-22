@@ -2,6 +2,11 @@
 
 A speed detector...but fake 😁 Try it, i bet you'll laugh!
 
+![first-question](./assets/images/first-question.png)
+![second-question](./assets/images/second-question.png)
+
+More in the future... 💪
+
 # Technologies
 
 - [Secret AI](https://github.com/pncsoares)
