@@ -21,13 +21,13 @@ Create and go to the directory where you want to place the repository
 Clone the project
 
 ```bash
-  git clone https://github.com/pncsoares/ fake-speed-detector.git
+  git clone https://github.com/pncsoares/fake-speed-detector.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd  fake-speed-detector
+  cd fake-speed-detector
 ```
 
 ## How to execute
