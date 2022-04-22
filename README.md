@@ -7,6 +7,8 @@ A speed detector...but fake 😁 Try it, i bet you'll laugh!
 - [Secret AI](https://github.com/pncsoares)
 - [Node](https://nodejs.org/en/docs/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [ ] HTML
+- [ ] CSS
 
 # Setup
 
