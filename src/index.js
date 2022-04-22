@@ -1,8 +1,8 @@
 import readline from 'readline';
-import getElectricCarSound from './services/electricCarSpeed.js';
 import log from './services/logger.js';
-import getNonElectricCarSound from './services/nonElectricCarSpeed.js';
 import verifyIfItIsGoingForward from './services/speed.js';
+import getElectricCarSound from './services/electricCarSpeed.js';
+import getNonElectricCarSound from './services/nonElectricCarSpeed.js';
 
 const rl = readline.createInterface({
     input: process.stdin,
